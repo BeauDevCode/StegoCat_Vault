@@ -15,7 +15,7 @@ It allows users to encrypt text messages using a recipient's Public Key and hide
 
 | 1. Key Management | 2. Encryption (Hiding) | 3. Decryption (Revealing) |
 |:---:|:---:|:---:|
-| *(Place screenshot of Tab 1 here)* | *(Place screenshot of Tab 2 here)* | *(Place screenshot of Tab 3 here)* |
+| ![Keys Tab](screenshots/keys.png) | ![Encrypt Tab](screenshots/encrypt.png) | ![Decrypt Tab](screenshots/decrypt.png) |
 
 ---
 
