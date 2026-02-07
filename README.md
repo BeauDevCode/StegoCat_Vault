@@ -15,7 +15,7 @@ It allows users to encrypt text messages using a recipient's Public Key and hide
 
 | 1. Key Management | 2. Encryption (Hiding) | 3. Decryption (Revealing) |
 |:---:|:---:|:---:|
-| ![Keys Tab](https://github.com/BeauDevCode/StegoCat_Vault/blob/ff011d5ceaa093a5934efbdfbe99e924e7f3170a/Screenshots/keys.png) | ![Encrypt Tab](screenshots/encrypt.png) | ![Decrypt Tab](screenshots/decrypt.png) |
+| ![Keys Tab](https://github.com/BeauDevCode/StegoCat_Vault/blob/ff011d5ceaa093a5934efbdfbe99e924e7f3170a/Screenshots/keys.png) | ![Encrypt Tab](https://github.com/BeauDevCode/StegoCat_Vault/blob/2370591f3253120d3e5c5b6689e6812a151f84c1/Screenshots/encrypt.png) | ![Decrypt Tab](https://github.com/BeauDevCode/StegoCat_Vault/blob/2370591f3253120d3e5c5b6689e6812a151f84c1/Screenshots/decrypt.png) |
 
 ---
 
